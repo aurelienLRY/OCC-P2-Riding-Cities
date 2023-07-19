@@ -19,6 +19,8 @@ Les livrables attendus pour ce projet sont :
 - Le code HTML et CSS de l'interface utilisateur
 - Un rapport de développement expliquant les choix de conception et les difficultés rencontrées
 
+[Découvrir la page](https://aurelienlry.github.io/OCC-P2-Riding-Cities/)
+
 
 ## Calendrier
 Le projet comptabilise 20h, il commencera le 20 juillet et devra être livré le 28 juillet 2023.
