@@ -27,3 +27,8 @@ Le projet comptabilise 20h, il commencera le 20 juillet et devra être livré le
 
 
 [![wakatime](https://wakatime.com/badge/user/dfdaf0d3-5ae8-4997-92c1-563d24f5d7d4/project/e3bf36b0-82e4-466b-a1a7-fe48e36e12aa.svg)](https://wakatime.com/badge/user/dfdaf0d3-5ae8-4997-92c1-563d24f5d7d4/project/e3bf36b0-82e4-466b-a1a7-fe48e36e12aa)
+
+
+## Évaluation 
+
+![p2](https://github.com/aurelienLRY/OCC-P2-Riding-Cities/assets/83220559/58cea13f-4fca-4775-a687-d0fdbffa9b2d)
